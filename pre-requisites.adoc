@@ -56,7 +56,10 @@ cd Kafka-ELK-Workshop
 +
 [source,bash]
 ----
+
 docker-compose pull
+
+docker-compose up -d
 ----
 
 0. Did you check that Docker has at least 8GB of memory available?
