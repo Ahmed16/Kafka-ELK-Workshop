@@ -42,14 +42,14 @@ Should return a value greater than 8GB - if not, the Kafka stack will probably n
 +
 [source,bash]
 ----
-git clone https://github.com/confluentinc/demo-scene.git
+git clone https://github.com/Ahmed16/Kafka-ELK-Workshop.git
 ----
 
 3. Change to the KSQL workshop folder
 +
 [source,bash]
 ----
-cd demo-scene/ksql-workshop
+cd Kafka-ELK-Workshop
 ----
 
 3. Pull all required docker images—this will take a while!
